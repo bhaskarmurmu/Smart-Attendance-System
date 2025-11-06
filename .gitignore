@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Dataset (Contains private face images!)
+dataset/
+
+# Generated files
+face_encodings.pkl
+attendance.xlsx
+
+# Conda environment files
+.conda/

@@ -1,0 +1,58 @@
+{
+  "Monday": [],
+  "Tuesday": [
+    {
+      "subject": "DL",
+      "start": "14:30",
+      "end": "15:20"
+    },
+    {
+      "subject": "CC",
+      "start": "15:30",
+      "end": "16:20"
+    }
+  ],
+  "Wednesday": [
+    {
+      "subject": "CC Lab",
+      "start": "13:30",
+      "end": "16:20"
+    },
+    {
+      "subject": "DL",
+      "start": "16:30",
+      "end": "17:20"
+    }
+  ],
+  "Thursday": [
+    {
+      "subject": "DL Lab",
+      "start": "09:00",
+      "end": "11:50"
+    },
+    {
+      "subject": "CC",
+      "start": "12:00",
+      "end": "12:50"
+    },
+     {
+       "subject": "testing",
+       "start": "02:19",
+       "end": "02:20"
+     }
+  ],
+  "Friday": [
+    {
+      "subject": "DL",
+      "start": "11:00",
+      "end": "11:50"
+    },
+    {
+      "subject": "CC",
+      "start": "12:00",
+      "end": "12:50"
+    }
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
