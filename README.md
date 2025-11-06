@@ -5,16 +5,16 @@ Project Structure
 Before you start, create a main project folder. All these files should go inside it. You will also need to create a folder named dataset .
 
 SmartAttendance/
-|-- dataset/               <-- Create this empty folder
-|-- students.csv           <-- Admin manages this
-|-- timetable.json         <-- Admin manages this
-|-- face_encodings.pkl     <-- This will be generated
-|-- attendance.xlsx        <-- This will be generated
-|
-|-- step_1_data_collection.py
-|-- step_2_model_training.py
-|-- step_3_main_attendance.py
-|-- step_4_generate_report.py
+- dataset/                  <-- Create this empty folder
+- students.csv              <-- Admin manages this
+- timetable.json            <-- Admin manages this
+- face_encodings.pkl        <-- This will be generated
+- attendance.xlsx           <-- This will be generated
+  
+1. step_1_data_collection.py
+2. step_2_model_training.py
+3. step_3_main_attendance.py
+4. step_4_generate_report.py
 
 
 Step 0: Install Dependencies
